@@ -220,6 +220,19 @@ Medical Informatics and e-Health Knowledge Engineering Laboratory
 - Arabic: Fluent
 - Spanish: B1
 
+
+---
+
+## GITHUB STATISTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirine345&show_icons=false&hide_title=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sirine345&theme=default)
+
+---
+
+*Biomedical Informatics | Health Data | Digital Health*
+
 ---
 
 ## 📫 Contact
