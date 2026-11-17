@@ -49,6 +49,20 @@ Je suis particulièrement intéressée par les projets qui contribuent à l'amé
 - Git, Linux, Jupyter Notebook
 - VS Code, PyCharm
 
+
+
+### Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=555555)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&labelColor=555555)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&labelColor=555555)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=555555)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&labelColor=555555)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&labelColor=555555)
+![Python Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&labelColor=555555)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&labelColor=555555)
+
+
 ## 📂 Projets universitaires
 
 ### 1. Analyse exploratoire de données hospitalières
