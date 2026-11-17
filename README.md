@@ -4,7 +4,7 @@
 
 📍 Paris, France  
 🎓 Université Paris Cité  
-💼 Recherche un stage de fin d'études de 6 mois à partir du 1er février 2027
+
 
 [🇫🇷 Français](#-français) | [🇬🇧 English](#-english)
 
